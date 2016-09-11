@@ -1,0 +1,23 @@
+1. a, b, e - correct
+2. e - wrong
+3. d, e - missing point b
+4. a, b, c - a and b are right c is not
+5. c, (d I am taken this out as the jelly is named not something.jelly) - right on both counts
+6. d - wrong all in the same package
+7. b - wrong to many answers missing
+8. d - b was right the file name is not in the args
+9. a - wrong 
+10. e - correct
+11. a, b, c - mostly right
+12. c, d - wrong 
+13. a, f - a is right f is worng
+14. d - correct
+15. a, e - correct
+16. a, b - wrong over all. a is not right and there is more missing
+17. a, e - correct
+18. c, (e this could work if import is not needed) - most right missing one 
+19. d - half right but missed a line
+20. b, e - correct
+21. f - wrong
+22. b, e - correct
+23. c, f - half right
