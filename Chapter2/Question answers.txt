@@ -1,0 +1,23 @@
+Here is my answers to Chapther 2 and any notes that I may think is needed to be said
+Result: 4 fully right, all part rights dont matter.
+
+1. A, D - Correct
+2. A - - B & D are right too. 
+3. E, F - I don't think that F can complie due to false not been a string value. - E was not right
+4. B, C, D, - - F was also right
+5. A - This could be C but I dont think so, The Break pass contorl back to the preant - Wrong C was right
+6. E, F - This might only be one of the values - Only F was the problem. E was linked back to a statement
+7. F, - - Wrong D is the answer look back over that one.
+8. F, - - Wrong B was the answer, need to check why it compiles again
+9. B, - - Wrong cause an infinite loop
+10. E, - - I think the number is out of range for 90 - Wrong 90 is with in range but does not compile, D
+11. D, - - A was right. I messed up in my maths but had the order of action right :(
+12. D, - - Correct
+13. D, - - Wrong A is the answer Code Compiles
+14. C, - - Correct 
+15. B, - - Wrong E Code did not compile
+16. E, - - Wrong D no loop but out of scopr compile error
+17. D, - - Correct
+18. E, - - Not sure Which is right. The answer in the book say A first then B at the end, Why I put E I have no clue, Just looked back over my rough work and I got the answer B. So why I put down E :*
+19. F, - This could be very well wrong. I don't believe you can do z += x + y - Wrong It did compile so D was the answer
+20. C, - - B It did compile, Look it to the final variable thing again. I thought thats why it didn't compile
