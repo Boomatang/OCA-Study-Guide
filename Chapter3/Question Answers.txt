@@ -1,0 +1,40 @@
+Total 17/33 fully right
+
+Q1. G, Can't convert between a int and string - Correct
+Q2. A, C, E - not E but D 
+Q3. B, C, E - Correct
+Q4. B - Correct
+Q5. B - F Complie error 
+Q6. A, no object of the lion was created - B was the right answer
+Q7. E, F The code will not compile due to an error been trown - It gives a run time 
+error E but first it runs B & D
+Q8. A, E, D, in order to which they are called - Correct
+Q9. C. The substring is not asigned to anything - Correct
+Q10. E, F. This could have a complie error on line 14 which is "A" - only F is right.
+Q11. F. Can not substring less than start point - Wrong E was right
+Q12. A - Correct
+Q13. A - F trick question
+Q14. A, C. - Correct
+Q15. B, C, E, F - B was wrong. 
+Q16, D - C is right lenght is not a method but a proparity
+Q17. G - F is rigth use size not lenght
+Q18. A, C, F, Putting down F as you change change its  values but not its size - half 
+right F was wrong but D & E were also right
+Q19. B, D - Half right D should have been a runtime error C
+Q20. D - correct
+Q21. C - Correct
+Q22. D The list is not sorted so any answer can pop out - Correct
+Q23. A - Correct
+Q24. A - Wrong Compile Error
+Q25. D. Not sure if letters get sorted before numbers - Correct
+Q26. C - Well wrong look back over this
+Q27. B - Correct
+Q28. D, F - Correct
+Q29. E, This migth no complie which is D - D was the right answer
+Q30. F - Correct
+Q31. G - Not right look back over to see what happened
+Q32. E - Correct
+Q33. E - It works but is only the last chained method so its a last in gets out type of 
+thing.
+
+
