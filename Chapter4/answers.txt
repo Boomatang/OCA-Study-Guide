@@ -1,0 +1,32 @@
+These are my answers to the questions at the end of chapter 4
+
+1. C pravite - B and C were the answers
+2. D, E ?A not e should have been picked
+3. C, D - A was right too
+4. A, B, D, E, G - seems like to many - D and E where wrong
+5. c - wrong
+6. A, D - only D was right
+7. D, will cause a compile error before E can - B, C and F were also right
+8. B, C, E - correct
+9. B, C, E - this is not me answer the same question twices - B is wrong
+10. C first complie error - wrong
+11. C - wrong B and E were right
+12. A but the code might not compile - Wrong 
+13. C, Wrong e
+14. c. - B my bad
+15. D. - E was right watch the types
+16. e - wrong B is the answer
+17. b, c, e - It was D instand of C
+18. cc, f - half wrong F was meant to be G
+19. a,  g - Correct
+20. E - Correct 
+21. C, - correct
+22. D but more tha likly will be wrong - E was the right one. still do not see how it came out that way
+23. B - Wrong A
+24. c, e - bit of a trick B could have been used but it would have been rewrite by e
+25. A - E was also right
+26. A, but a runtime error chould be happening on the import - Correct
+27. C - Note efverything was wrong with it - Correct
+28. a, E, F - E was wrong this should have been D
+29. A - F was also right
+
