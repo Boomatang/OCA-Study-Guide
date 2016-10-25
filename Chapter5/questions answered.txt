@@ -1,0 +1,20 @@
+1. b, c - this may not be static or c - C was wrong for the reason I had said.
+2. b - E there was no constructor
+3. a, b, e - Also D
+4. b, d - Wrong right was C E
+5. A, D, F - Right but E was also right
+6. B - Wrong
+7. B, C, - Correct
+8. A - But I believe there is an error on line 5 - F was right, I didn't see the second error
+9. B - A
+10. F , G - This is mostly wrong, right answer is B, C, E, F
+11. A, E - D was also right
+12. c - B
+13. E - A 
+14. E - C
+15. B, C - C was not right
+16. E - This could Be C but I am not sure - Correct
+17. A - B 
+18. C - E
+19. A, C - Also F was right
+20. C - But I worrry it will not compile - A
